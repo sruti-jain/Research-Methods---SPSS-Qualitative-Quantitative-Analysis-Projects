@@ -1,0 +1,2 @@
+# Research-Methods---SPSS-Qualitative-Quantitative-Analysis-Projects
+Assignment for Research Methods covering Quantitative &amp; Qualitative techniques like Hypothesis testing, Z Score, T test, ANOVA (between subjects and repeated measures, factorial designs, mixed designs), Regression (Simple, multiple, hierarchical), Correlation, Centering, Factor Analysis, ANCOVA, Non parametric Statistics (Chi-square)
